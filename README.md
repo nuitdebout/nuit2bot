@@ -9,10 +9,15 @@ deployed on [Heroku][heroku] to get you up and running as quick as possible.
 Pour lancer le bot il faut régler les variables d'environnement suivantes :
 
 export ROCKETCHAT_URL=https://chat.nuitdebout.fr
+
 export ROCKETCHAT_ROOM='test,dev,accueil'
+
 export LISTEN_ON_ALL_PUBLIC=false
+
 export ROCKETCHAT_USER=admin-bot
+
 export ROCKETCHAT_PASSWORD=[PASSWORD]
+
 export ROCKETCHAT_AUTH=password
 
 puis
@@ -22,6 +27,7 @@ bin/hubot -a rocketchat
 #Nouvelles commandes
 
 nuit2bot regles - Afficher les regles
+
 nuit2bot v - try me
 
 [heroku]: http://www.heroku.com
