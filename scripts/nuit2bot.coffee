@@ -13,21 +13,22 @@
 #   hubot v - try me
 
 fs = require 'fs'
-charte = fs.readFileSync( require('path').resolve(__dirname, 'charte.txt')).toString()
+charte = fs.readFileSync( require('path').resolve(__dirname, '../texts/charte.txt')).toString()
+info = fs.readFileSync( require('path').resolve(__dirname, '../texts/charte.txt')).toString()
 console.log charte
 
 module.exports = (robot) ->
   setInterval ->
     robot.messageRoom 'accueil', charte
   , 1000*60*60*3 #toutes les 3 heures
+  setInterval ->
+    robot.messageRoom 'accueil', info
+  , 1000*60*60*1 #toutes les 3 heures
 
   robot.respond /v/i, (res)->
     res.send 'http://i.imgur.com/o3Sn8JV.jpg'
 
   robot.respond /regles/i, (res) ->
     res.send charte
-  
-  lulz = ['lol', 'rofl', 'lmao']
- 
-  robot.respond /lulz/i, (res) ->
-    res.send res.random lulz
+  robot.respond /info/i, (res) ->
+    res.send info

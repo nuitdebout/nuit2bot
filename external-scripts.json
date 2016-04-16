@@ -1,5 +1,7 @@
 [
   "hubot-diagnostics",
   "hubot-help",
+  "hubot-bookmark",
+  "hubot-secret-ballot",
   "hubot-pugme"
 ]

@@ -1,0 +1,24 @@
+_Règles du chat_
+
+Le chat est un lieu de mise en contact, de discussion, d'échange et de convivialité au service du mouvement #nuitdebout.
+Ce chat est en inscription libre à tous·te·s les participants et sympathisants du mouvement.
+Les participants acceptent de se comporter de façon responsable et respectueuse.
+
+_Confidentialité_
+Le chat est un lieu ouvert à tous, donc **rien de ce qui est échangé dans les channels n'est confidentiel**. Ce n'est pas un bon lieu pour diffuser des informations confidentielles/sensibles.
+
+_Format des pseudos_
+Merci de formater vos pseudos sous la forme : pseudo.fonction/compétence.ville par exemple : albator.pirate.espace.
+
+_Quelques règles de bonne conduite_
+Pour que le chat fonctionne et demeure un lieu de convivialité, il existe un ensemble de règles à respecter. En cas de non-respect de celles-ci, les responsables seront contraints de prendre les mesures coercitives s'imposant. Ne sont pas autorisés :
+
+ - L'agressivité, le harcèlement, les injures, les propos diffamatoires ou les dénonciations calomnieuses à l'encontre d'un quelconque chatteur ;
+ - Les propos racistes, xénophobes, révisionnistes ou négationnistes, faisant l'apologie de crime de guerre, discriminant ou incitant à la haine à l'encontre d'un quelconque chatteur en raison de ses origines, son ethnie, ses croyances ou son mode de vie ;
+ - Les spams et les publicités, qu'elles soient commerciales ou non ;
+ - Les propositions d'achat ou de vente de produits illicites et illégaux ;
+ - Les vandales (ou « troubles-fête ») voulant mettre la pagaille sur le fil.
+
+Nota bene : le « @all » ne doit être utilisé qu'en cas d'information très importante ou officielle.
+
+Plus d'infos : https://wiki.nuitdebout.fr/wiki/Chat
