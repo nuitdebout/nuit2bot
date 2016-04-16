@@ -14,7 +14,7 @@
 
 fs = require 'fs'
 charte = fs.readFileSync( require('path').resolve(__dirname, '../texts/charte.txt')).toString()
-info = fs.readFileSync( require('path').resolve(__dirname, '../texts/charte.txt')).toString()
+info = fs.readFileSync( require('path').resolve(__dirname, '../texts/info.txt')).toString()
 console.log charte
 
 module.exports = (robot) ->

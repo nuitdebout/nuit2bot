@@ -1,6 +1,9 @@
 Bienvenue sur le chat Nuit Debout !
 
+Besoin d'aide ? Rdv sur #hotline
+Retrouvez l'équipe technique sur #dev #chat
+
 Salons populaires:
-#accueil #hotline #dev #communication #democracie #action
+#communication #democratie #action
 
 Plus d'infos : https://wiki.nuitdebout.fr/wiki/Chat
