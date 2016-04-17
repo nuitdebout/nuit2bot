@@ -19,6 +19,6 @@ Pour que le chat fonctionne et demeure un lieu de convivialité, il existe un en
  - Les propositions d'achat ou de vente de produits illicites et illégaux ;
  - Les vandales (ou « troubles-fête ») voulant mettre la pagaille sur le fil.
 
-Nota bene : le « @all » ne doit être utilisé qu'en cas d'information très importante ou officielle.
+Nota bene : le « @ all » ne doit être utilisé qu'en cas d'information très importante ou officielle.
 
 Plus d'infos : https://wiki.nuitdebout.fr/wiki/Chat
